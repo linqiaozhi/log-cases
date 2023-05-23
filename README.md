@@ -20,4 +20,4 @@ To use the script, you need to have Python 3+ installed and also several package
 1. Download [anaconda, miniconda,](https://www.anaconda.com/download/) or any other python distribution
 2. Install several packages using pip: `pip install pandas selenium chromedriver_autoinstaller`
 
-Then you can run the script as python log-cases.py, as before. 
+Then you can run the script as `python log-cases.py`, as before. 
