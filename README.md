@@ -1,6 +1,6 @@
 # Automated Case Log Entry
 
-This repository contains an automated script for submitting cases to ACGME Case Log website.
+This repository contains an automated script for submitting cases to Case Log website.
 
 ## Instructions
 1. Export the cases from Epic, on your own computer
@@ -19,3 +19,5 @@ This repository contains an automated script for submitting cases to ACGME Case 
 To use the script, you need to have Python 3+ installed and also several packages. 
 1. Download [anaconda, miniconda,](https://www.anaconda.com/download/) or any other python distribution
 2. Install several packages using pip: `pip install pandas selenium chromedriver_autoinstaller`
+
+Then you can run the script as python log-cases.py, as before. 
